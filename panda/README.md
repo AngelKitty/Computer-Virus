@@ -1163,3 +1163,5 @@ void CKillWhBoyDlg::OnBtnKill()
 - [由“熊猫烧香”谈起](http://staff.ustc.edu.cn/~lszhuang/law09/xiongmaoshaoxiang.pdf)
 
 - [Github](https://github.com/AngelKitty/Computer-Virus)
+
+- [博客园](https://www.cnblogs.com/ECJTUACM-873284962/p/9642383.html)
