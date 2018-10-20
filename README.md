@@ -16,3 +16,7 @@
 
 * [如何参与Computer-Virus](./.github/CONTRIBUTING.md)
 * [联系方式](./.github/CONTRIBUTING.md#url)
+
+### 致谢列表
+
+* ![@AngelKitty](https://avatars0.githubusercontent.com/u/30405643?s=40&v=4)@AngelKitty
