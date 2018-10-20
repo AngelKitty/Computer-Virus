@@ -5,3 +5,5 @@
 
 - panda
 - BlueSpider
+- EternalBlue
+
