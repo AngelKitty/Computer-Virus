@@ -34,23 +34,40 @@ CONTRIBUTING to Computer-Virus
 .
 ├── README.md
 ├── base 组件基础
-├── 组件首字母
+├── 组件名称
 │   ├── README.md(组件列表)
 │   └── 组件名
 │       ├── README.md(组件病毒文件列表)
 │       ├── 唯一编号
 │       └── 唯一编号
-├── b
+├── panda
 │   ├── README.md
-│   └── bash
+│   └── figure
+│   |   ├── README.md
+│   |   ├── 1
+│   |   └── 2
+│   └── sources
+│   |   ├── README.md
+│   |   ├── 1
+│   |   └── 2
+│   └── tools
 │       ├── README.md
 │       ├── 1
 │       └── 2
-└── s
-    ├── README.md
-    └── struts2
-        ├── README.md
-        └── 1
+├── WannaCry
+│   ├── README.md
+│   └── figure
+│   |   ├── README.md
+│   |   ├── 1
+│   |   └── 2
+│   └── sources
+│   |   ├── README.md
+│   |   ├── 1
+│   |   └── 2
+│   └── tools
+│       ├── README.md
+│       ├── 1
+│       └── 2
 ```
 
 ### <a name="files"></a>病毒样例文件说明
@@ -74,13 +91,11 @@ Commit 分为标题和主体两部分，标题要求必须要简洁明了。对�
 ```
 
 * 操作:
- * Add    添加
- * Update 更新
- * Fix    修补 Bug
- * Delete 删除
+ * Add          添加
+ * Update    更新
+ * Fix            修补 Bug
+ * Delete      删除
 
-* 文件类型
- * Base   组件基础
 
 ### <a name="howto"></a>贡献流程
 
