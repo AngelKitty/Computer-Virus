@@ -19,4 +19,4 @@
 
 ### 致谢列表
 
-* ![@AngelKitty](https://avatars0.githubusercontent.com/u/30405643?s=40&v=4)@AngelKitty
+* ![@AngelKitty](https://avatars0.githubusercontent.com/u/30405643?s=40&v=4)[@AngelKitty](https://github.com/AngelKitty)
