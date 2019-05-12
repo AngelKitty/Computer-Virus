@@ -1,5 +1,7 @@
 ## Computer-Virus
 
+![GitHub watchers](https://img.shields.io/github/watchers/AngelKitty/Computer-Virus.svg?style=social)![GitHub stars](https://img.shields.io/github/stars/AngelKitty/Computer-Virus.svg?style=social)![GitHub forks](https://img.shields.io/github/forks/AngelKitty/Computer-Virus.svg?style=social)![GitHub followers](https://img.shields.io/github/followers/AngelKitty.svg?style=social)
+
 这里是一个开源的学习电脑病毒以及相应专杀工具开发的平台，觉得好的各位亲不要吝啬你们的 **`star`** && **`fork`**，我们一起为了打造一个学习平台而不懈努力。
 
 目前所编写的病毒库如下：
